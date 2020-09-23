@@ -1,2 +1,2 @@
 # Docker
-Aplicando estudo para a criação de conteiner 
+Aplicando estudo para a criação de container 
